@@ -51,7 +51,7 @@ typewrite-text: devlopr is a jekyll theme built for developers. You can edit thi
 
 # Education
 author_education_details:
-              - college_logo: Lit.jpg
+              - college_logo: lit.jpg
                 college_name: Lit
                 college_url: https://lit.ie
                 college_degree: Internet Systems Development
