@@ -1,7 +1,7 @@
 title: Ross Mcinerney
-subtitle: Ross Mcinerney. A Showcase of my abilities
+subtitle: Ross Mcinerney. A Showcase of my abilities in code
 description: >- # this means to ignore newlines until "baseurl:"
-  A Showcase of my abilities
+  A Showcase of my abilities code
 
 url: "https://rossmci.github.io/" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "https://rossmci.github.io/" # the subpath of your site, e.g. /blog
